@@ -1,2 +1,2 @@
-# Projects
-This is where I hope to put my future projects. 
+# DataQuest
+This is where I'll put projects from DataQuest 
